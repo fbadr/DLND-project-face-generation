@@ -6,7 +6,7 @@
 In this project, you'll use generative adversarial networks to generate new images of faces using the processed CelebA face data.
 
 
-![CelebA](assets\processed_face_data.png)
+![CelebA](assets/processed_face_data.png)
 
 
 The project includes:
